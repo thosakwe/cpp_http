@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="todo_app" type="CMakeRunConfiguration" factoryName="Application" singleton="true" PROGRAM_PARAMS="-p 3000 -j 10" PASS_PARENT_ENVS_2="true" PROJECT_NAME="todo_app" TARGET_NAME="todo_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="todo_app" RUN_TARGET_NAME="todo_app">
+    <envs />
+    <method />
+  </configuration>
+</component>
